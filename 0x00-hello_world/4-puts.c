@@ -2,11 +2,11 @@
 
 /** 
  * main -  print "Programming is like building a multilingual puzzle
- * ending in a new line"
+ * by a new line"
  * returns 0.
  */
 
-int main() {
+int main(void) {
   
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
