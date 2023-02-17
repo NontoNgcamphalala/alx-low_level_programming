@@ -4,10 +4,8 @@
  * main - Entry point
  *
  * main - prints prints the size of various types on the computer it is
- * compiled and run on..
- * 
+ * compiled and run on.
  * Return: Always 0 (Success)
- *
  */
 
 int main(void)
