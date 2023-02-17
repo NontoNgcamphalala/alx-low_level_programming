@@ -8,12 +8,12 @@
 int main(void)
 
 {
-	char d;
+	char c;
 
-	/* your code goes there */
+	/*my code goes there */
 
-	for (d = 'a'; d <= '2'; d++)
-	putchar(d);
+	for (c = 'a'; c <= '2'; c++)
+	putchar(c);
 	putchar('\n');
 	return (0);
 
