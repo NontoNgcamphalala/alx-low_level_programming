@@ -3,7 +3,8 @@
 #include <time.h>
 
 /**
- * main Entry point print numbers
+ * main -  print numberz
+ *
  * Return: Always 0 (Success)
  */
 
