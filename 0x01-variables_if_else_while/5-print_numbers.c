@@ -3,7 +3,8 @@
 #include <time.h>
 
 /**
- * main prints Numbers.
+ * main - prints Numbers.
+ *
  * Return: Always 0 (Success)
  */
 
