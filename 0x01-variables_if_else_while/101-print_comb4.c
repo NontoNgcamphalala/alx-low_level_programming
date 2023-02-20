@@ -5,13 +5,13 @@
 /**
  * main - prints all possible different combinations of three digits
  *
- * Returns: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 
 {
-	int d, r, s; 
+	int d, r, s;
 
 	for (d = '0'; d < '9'; d++)
 	{
