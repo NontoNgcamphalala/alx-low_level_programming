@@ -2,7 +2,7 @@
 
 /**
  * main - print _putchar
- *
+ *is writtten by mbah
  * Retun: Always 0 (Sucess)
  */
 
