@@ -22,9 +22,9 @@ void print_trangle(int size)
 			{
 				_putchar(' ');
 			}
-			for (j = 1; j <= j; j++)
+			for (j = 1; j <= i; j++)
 			{
-				_putchar('\n');
+				_putchar('#');
 			}
 			_putchar('\n');
 		}
